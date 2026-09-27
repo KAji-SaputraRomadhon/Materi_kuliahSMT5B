@@ -21,7 +21,7 @@
  1. Buat komponen SkillCard untuk merender satu item skill dengan progress bar
  2. Buat komponen TimelineCard untuk merender satu item riwayat yang bisa ditekan
  3. Konfirmasi Bukti
-
+![alt text](code-1.png)
 
 ### Langkah 4 : State Management dengan useState ###
 1. Import useState dari react
