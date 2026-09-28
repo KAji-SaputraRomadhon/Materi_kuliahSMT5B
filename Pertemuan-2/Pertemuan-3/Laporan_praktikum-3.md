@@ -80,4 +80,4 @@
 
 
 ## Bukti hasil akhir ##
-<video controls src="20260927-1715-15.6102760.mp4" title="Title"></video>
+![alt text](20260927-1715-15.6102760.gif)
